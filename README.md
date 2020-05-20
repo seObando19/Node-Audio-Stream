@@ -14,7 +14,6 @@
 2. Abrir Postman
 
 3. Para registrar agregar key y value
-    * key-> track y name
 ![Image project](./image/trackPost.png "Image Project")
 
 4. Para traer audio
